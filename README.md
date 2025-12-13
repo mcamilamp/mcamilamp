@@ -4,7 +4,6 @@
 
 <h3>Frontend Developer | Aspiring Full Stack & Project Manager</h3>
 <p><em>Explorando tecnologías, construyendo experiencias, liderando el futuro ✨</em></p>
----
   
 ### 🛠️ Tech Stack
 <p>
@@ -16,20 +15,19 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
----
 
 ### 🚀 Featured Projects
 <table>
 <tr>
 <td width="50%">
   
-#### 🏥 HEMS
-Sistema de gestión hospitalaria con interfaz moderna y funcional para administrar pacientes, citas y recursos médicos.
-**Tech:** React, PostgreSQL, CSS
+#### 🏘️ [HEMS](https://github.com/mcamilamp/hems)
+Home Energy Management System: Sistema basado en tecnologías IoT para monitorear, analizar y optimizar el consumo energético en hogares
+**Tech:** Next.js, SASS, PostgreSQL, InfluxDB
 </td>
 <td width="50%">
   
-#### 💼 My Portfolio
+#### 💼 [My Portfolio](https://github.com/mcamilamp/my-portfolio)
 Portafolio personal interactivo que muestra mis proyectos y habilidades con diseño creativo y animaciones dinámicas.
 **Tech:** React, CSS, JavaScript
 </td>
@@ -37,29 +35,25 @@ Portafolio personal interactivo que muestra mis proyectos y habilidades con dise
 <tr>
 <td width="50%">
   
-#### ✈️ Airline
+#### ✈️ [Airline](https://github.com/mcamilamp/airline)
 Plataforma de reservas de vuelos con búsqueda avanzada, gestión de itinerarios y experiencia de usuario optimizada.
-**Tech:** React, Next.js, Sass
+**Tech:** React, SpringBoot, Docker
 </td>
 <td width="50%">
   
-#### 🚗 Ride Share Connect
-Aplicación de compartir viajes que conecta conductores y pasajeros con sistema de reservas en tiempo real.
-**Tech:** React, PostgreSQL, CSS
+#### 🌺 [Flower-WebSite](https://github.com/mcamilamp/flower-website)
+Sitio Web de flores frescas y arreglos florales personalizados.
+**Tech:** HTML, CSS
 </td>
 </tr>
 </table>
----
+
 
 ### 📊 GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcamilamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamilamp&layout=compact&langs_count=8&theme=radical"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcamilamp&theme=radical" alt="GitHub Streak"/>
-</p>
----
 
 ### 🌐 Connect With Me
 <p>
@@ -70,6 +64,6 @@ Aplicación de compartir viajes que conecta conductores y pasajeros con sistema 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
----
-<p><em>"Code with passion, design with purpose, lead with vision"</em> 💫</p>
+
+<p><em>"Levántate y Resplandece - Isaías 60:1 💫</p>
 </div>
