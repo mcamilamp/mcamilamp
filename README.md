@@ -5,8 +5,13 @@
 <h3>Frontend Developer | Aspiring Full Stack & Project Manager</h3>
 <p><em>Explorando tecnologías, construyendo experiencias, liderando el futuro ✨</em></p>
 
-## [Mi Portfolio Web: mcamilamp](mcamilamp-portfolio.netlify.app)
-  
+## 🌐 Mi Portfolio Web: 
+<p>
+  <a href="https://mcamilamp-portfolio.netlify.app" target="_blank">
+    🔗 mcamilamp-portfolio.netlify.app
+  </a>
+</p>
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -24,32 +29,35 @@
 <td width="50%">
   
 #### 🏘️ [HEMS](https://github.com/mcamilamp/hems)
-Home Energy Management System: Sistema basado en tecnologías IoT para monitorear, analizar y optimizar el consumo energético en hogares
+Home Energy Management System: Sistema basado en tecnologías IoT para monitorear, analizar y optimizar el consumo energético en hogares  
 **Tech:** Next.js, SASS, PostgreSQL, InfluxDB
+
 </td>
 <td width="50%">
   
 #### 💼 [My Portfolio](https://github.com/mcamilamp/my-portfolio)
-Portafolio personal interactivo que muestra mis proyectos y habilidades con diseño creativo y animaciones dinámicas.
+Portafolio personal interactivo que muestra mis proyectos y habilidades con diseño creativo y animaciones dinámicas.  
 **Tech:** React, CSS, JavaScript
+
 </td>
 </tr>
 <tr>
 <td width="50%">
   
 #### ✈️ [Airline](https://github.com/mcamilamp/airline)
-Plataforma de reservas de vuelos con búsqueda avanzada, gestión de itinerarios y experiencia de usuario optimizada.
+Plataforma de reservas de vuelos con búsqueda avanzada, gestión de itinerarios y experiencia de usuario optimizada.  
 **Tech:** React, SpringBoot, Docker
+
 </td>
 <td width="50%">
   
 #### 🌺 [Flower-WebSite](https://github.com/mcamilamp/flower-website)
-Sitio Web de flores frescas y arreglos florales personalizados.
+Sitio Web de flores frescas y arreglos florales personalizados.  
 **Tech:** HTML, CSS
+
 </td>
 </tr>
 </table>
-
 
 ### 📊 GitHub Stats
 <p>
@@ -59,13 +67,14 @@ Sitio Web de flores frescas y arreglos florales personalizados.
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/maria-camila-mercado-payares-1a2383289/">
+  <a href="https://www.linkedin.com/in/maria-camila-mercado-payares-1a2383289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mcamila_mp/">
+  <a href="https://www.instagram.com/mcamila_mp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<p><em>"Levántate y Resplandece - Isaías 60:1 💫</p>
+<p><em>"Levántate y Resplandece" – Isaías 60:1 💫</em></p>
+
 </div>
