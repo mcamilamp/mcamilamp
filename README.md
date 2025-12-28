@@ -1,16 +1,16 @@
 <div align="center">
   
-## <em>María Camila Mercado Payares</em> 
-
+# <em>María Camila Mercado Payares</em> 
 <h3>Frontend Developer | Aspiring Full Stack & Project Manager</h3>
 <p><em>Explorando tecnologías, construyendo experiencias, liderando el futuro ✨</em></p>
 
-## 🌐 Mi Portfolio Web: 
+## 🌐 Mi Portfolio Web
 <p>
   <a href="https://mcamilamp-portfolio.netlify.app" target="_blank">
     🔗 mcamilamp-portfolio.netlify.app
   </a>
 </p>
+---
 
 ### 🛠️ Tech Stack
 <p>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+---
 
 ### 🚀 Featured Projects
 <table>
@@ -31,14 +32,12 @@
 #### 🏘️ [HEMS](https://github.com/mcamilamp/hems)
 Home Energy Management System: Sistema basado en tecnologías IoT para monitorear, analizar y optimizar el consumo energético en hogares  
 **Tech:** Next.js, SASS, PostgreSQL, InfluxDB
-
 </td>
 <td width="50%">
   
 #### 💼 [My Portfolio](https://github.com/mcamilamp/my-portfolio)
 Portafolio personal interactivo que muestra mis proyectos y habilidades con diseño creativo y animaciones dinámicas.  
 **Tech:** React, CSS, JavaScript
-
 </td>
 </tr>
 <tr>
@@ -47,23 +46,16 @@ Portafolio personal interactivo que muestra mis proyectos y habilidades con dise
 #### ✈️ [Airline](https://github.com/mcamilamp/airline)
 Plataforma de reservas de vuelos con búsqueda avanzada, gestión de itinerarios y experiencia de usuario optimizada.  
 **Tech:** React, SpringBoot, Docker
-
 </td>
 <td width="50%">
   
 #### 🌺 [Flower-WebSite](https://github.com/mcamilamp/flower-website)
 Sitio Web de flores frescas y arreglos florales personalizados.  
 **Tech:** HTML, CSS
-
 </td>
 </tr>
 </table>
-
-### 📊 GitHub Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcamilamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamilamp&layout=compact&langs_count=8&theme=radical"/>
-</p>
+---
 
 ### 🌐 Connect With Me
 <p>
@@ -74,7 +66,5 @@ Sitio Web de flores frescas y arreglos florales personalizados.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
 <p><em>"Levántate y Resplandece" – Isaías 60:1 💫</em></p>
-
 </div>
